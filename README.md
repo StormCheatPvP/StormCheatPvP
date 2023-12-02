@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Storm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-StormCheatPvP/StormCheatPvP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, sou o Storm
+- 👀 Estou interessado em ser sub-dev de seu jogo
+- 🌱 Atualmente estou aprendendo javascript for hackers, python for hackers
+- 📫 Como entrar em contato comigo, entre em contato pelo discord, tisuky_

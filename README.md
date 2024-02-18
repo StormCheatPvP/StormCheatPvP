@@ -1,4 +1,4 @@
 - 👋 Olá, sou o Storm
 - 👀 Estou interessado em ser sub-dev de seu jogo
 - 🌱 Atualmente estou aprendendo javascript for hackers, python for hackers
-- 📫 Como entrar em contato comigo, entre em contato pelo discord, tisuky_
+- 📫 Como entrar em contato comigo, não 
